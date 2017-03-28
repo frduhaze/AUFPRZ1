@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: AUFPRZ1
+  host: AUFPRZ1
+  disk_quota: 1024M
